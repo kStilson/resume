@@ -1,0 +1,116 @@
+                
+body, html {
+    height: 100%;
+   
+    background-position:center;
+    background-size: cover;
+    color: #1D2731;
+    padding-top: 20px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Homemade Apple', cursive;
+    padding-top: 20px;
+}
+
+h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+a.navbar-brand {
+    margin-top: 5px;
+    border-bottom: 1px solid black;
+}
+
+img.boat{
+    width: 90%;
+}
+
+section#work1 {
+    padding-top: 40px;
+}
+
+section#void{
+    padding: 50px 0px;
+
+}
+
+section#void2{
+    padding: 50px 0px;
+
+}
+
+section#showcase {
+    padding-top: 20px;
+}
+
+section#education {
+    padding-bottom: 30px;
+}
+
+section#work2 {
+    padding: 30px 0px;
+
+}
+
+div.ed-right {
+    width: 90%;
+}
+
+#contact {
+    text-align: center;
+    background: url(images/dockre.jpg);
+    background-size: 100%;
+}
+
+#contact img{
+    width: 8%;
+}
+
+
+#showcase img{
+    width: 90%;
+    margin-top: 72px;
+}
+
+#showcase .showcase-right {
+    margin-top: 90px;
+}
+
+.work2-left {
+    background: white;
+}
+
+.navbar-default {
+    background: white;
+    border: 0;
+    font-family: 'Homemade Apple', cursive;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: black !important;
+    font-weight: bold;
+}
+
+.navbar-right {
+    font-size: 20px;
+}
+
+.btn {
+    font-family: 'Homemade Apple', cursive; 
+}
+
+.ed-left img{
+    width: 70%;
+}
+
+
+
